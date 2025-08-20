@@ -89,5 +89,30 @@ It is the most attended cricket league in the world and rank sixth among all spo
 
 ## Dataset source: https://www.kaggle.com/datasets/ramjidoolla/ipl-data-set
 
+# STEP 3: TOOLS USED
+ The following tools were used to analyze the dataset;
 
-   
+  1. Microsoft Excel
+  2. SQL (Standard Query Language)
+  3. Power Bi Desktop (PBIX)
+
+# STEP 4: DATA CLEANING
+ The dataset appeared to be cleaned and processed already and didn’t need to go through all of the alterations as there were no duplicated variables and null rows allowed for the datasets.
+
+# STEP 5: EXPLORATORY DATA ANALYSIS (EDA)
+ The IPL (Indian Premier League) dataset contains lots of information about different Seasons, Teams, Players, Matches and Venue. It’s like a big treasure chest waiting to be explored, with Exploratory Data Analysis, the aim is to dig into the dataset to uncover insights, patterns and stories hidden within and what makes it so exciting.
+
+ The following questions were queried to uncover the hidden stories and patterns in the dataset:
+ 1.	How many Teams competed in the Indian Premier League between 2008-2019 Match? 	
+ 2.	How many Countries made up the teams?
+ 3.	Determine the top 5 teams with highest Total-Run, Home-Win-Percentage and Away-Win Percentage
+ 4.	Determine the player with the overall Strike-Rate
+ 5.	Determine the team’s performance ranking
+ 6.	In the Toss-decision, which one was prevalent? Bat or field
+ 7.	Does winning the toss give more chances to winning the match?
+ 8.	Which team won most games?
+ 9.	mention the top 10 players from the dataset according to their wins and runs.
+ 10.	 What is the most common win type from the dataset?
+ 11.	which team played most of the matches?
+ 12.	which season had the highest runs scored and wicket taken?
+
