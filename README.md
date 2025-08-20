@@ -112,7 +112,7 @@ It is the most attended cricket league in the world and rank sixth among all spo
  7.	Does winning the toss give more chances to winning the match?
  8.	Which team won most games?
  9.	mention the top 10 players from the dataset according to their wins and runs.
- 10.	 What is the most common win type from the dataset?
+ 10.	What is the most common win type from the dataset?
  11.	which team played most of the matches?
  12.	which season had the highest runs scored and wicket taken?
 
