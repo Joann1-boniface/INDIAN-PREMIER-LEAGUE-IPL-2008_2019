@@ -25,4 +25,69 @@ It is the most attended cricket league in the world and rank sixth among all spo
  4. Bowling-skill
  5. Country
 
+## 2.	TABLE 2: Deliveries which has the following 21 columns;
+ 1.	Match-id
+ 2.	Inning
+ 3.	Battling team
+ 4.	Bowling team
+ 5.	Over
+ 6.	Ball
+ 7.	Batsman
+ 8.	Non-striker
+ 9.	Bowler
+ 10.	Is-super-over
+ 11.	Wide-runs
+ 12.	Bye-runs
+ 13.	Leg bye-run
+ 14.	No-ball-run
+ 15.	Penalty-runs
+ 16.	Batsman-run
+ 17.	Extra-run
+ 18.	Total-runs
+ 19.	Player-dismissed
+ 20.	Dismissal-kind
+ 21.	Fielder
+
+## 3.	TABLE 3: Matches; under here, there are 17 columns of which there are missing values in at least 1 column, and they are listed below;
+ 1. Id
+ 2. Season
+ 3. City
+ 4. Date
+ 5. Team 1
+ 6. Team 2
+ 7. Toss-win
+ 8. Toss-decision
+ 9. Result
+ 10. Dl-applied
+ 11. Winner
+ 12. Win-by-runs
+ 13. Win-by-wickets
+ 14. Player of match
+ 15. Venue
+ 16. Ump2ire 1
+ 17. Umpire 2
+ 18. Umpire 3
+
+## 4.	TABLE 4: Teams; this contains the overall names of teams in the dataset.
+
+## 5.	TABLE 5: Teamwise-home-and-away; there are 7 columns here which are;
+ 1. Team
+ 2. Home-wins
+ 3. Away-wins
+ 4. Home-Match
+ 5. Away-Match
+ 6. Home-win-percentage
+ 7. Away-win-percentage
+
+## TABLE 6: Most-Runs-Average-Strike rate; under this table, there are 6 columns which are as follows;
+  1. Batsman
+  2. Total-runs
+  3. Out
+  4. Number of balls
+  5. Average
+  6. Strike rate
+
+## Dataset source: https://www.kaggle.com/datasets/ramjidoolla/ipl-data-set
+
+
    
