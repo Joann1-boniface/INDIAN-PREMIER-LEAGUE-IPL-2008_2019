@@ -117,3 +117,26 @@ It is the most attended cricket league in the world and rank sixth among all spo
  12.	which season had the highest runs scored and wicket taken?
 
 # STEP 6: DATA ANALYSIS
+ <img width="889" height="715" alt="image" src="https://github.com/user-attachments/assets/db3acd90-b4e2-461e-9e43-01c5b259d206" />
+
+<img width="855" height="627" alt="image" src="https://github.com/user-attachments/assets/a42e38cf-3688-4b4c-973e-70fd37354901" />
+
+<img width="840" height="536" alt="query3" src="https://github.com/user-attachments/assets/d6baa819-adca-45c9-af62-2ab45df9de5c" />
+
+<img width="975" height="525" alt="image" src="https://github.com/user-attachments/assets/e5a2e4c9-2d9a-4a4b-9d84-b6b8dd04bbfe" />
+
+<img width="960" height="517" alt="km" src="https://github.com/user-attachments/assets/9d0e86ab-0d66-42c8-9339-0f205fe3042e" />
+
+<img width="463" height="348" alt="image" src="https://github.com/user-attachments/assets/37b898e2-96bc-4aa2-9de2-e37587a6d13f" />
+
+<img width="544" height="342" alt="image" src="https://github.com/user-attachments/assets/0c024d6d-ceed-4f9b-b57a-9731df5b1028" />
+
+<img width="364" height="228" alt="image" src="https://github.com/user-attachments/assets/5a845182-5f02-41be-932c-2bd39be06508" />
+
+<img width="355" height="234" alt="image" src="https://github.com/user-attachments/assets/4c8e4fdf-4956-409e-b55d-60f4b6c04004" />
+
+# RESULTS AND FINDINGS
+
+<img width="750" height="146" alt="image" src="https://github.com/user-attachments/assets/f37d65e1-c829-431c-84b3-2ffe6812a316" />
+
+ 
