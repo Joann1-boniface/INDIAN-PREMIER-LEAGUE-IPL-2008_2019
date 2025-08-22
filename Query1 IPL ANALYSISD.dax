@@ -1,0 +1,17 @@
+﻿/* START QUERY BUILDER */
+EVALUATE
+SUMMARIZECOLUMNS(
+    players[Player_Name],
+    teamwise_home_and_away[away_wins],
+    teamwise_home_and_away[home_wins],
+    matches[win_by_runs],
+    matches[win_by_wickets]
+)
+ORDER BY 
+    players[Player_Name] ASC,
+    teamwise_home_and_away[away_wins] ASC,
+    teamwise_home_and_away[home_wins] ASC,
+    matches[win_by_runs] ASC,
+    matches[win_by_wickets] ASC
+/* END QUERY BUILDER */23
+
